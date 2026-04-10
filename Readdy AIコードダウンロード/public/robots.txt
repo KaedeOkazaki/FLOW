@@ -1,7 +1,0 @@
-User-agent: *
-Allow: /
-Allow: /services
-Allow: /about
-Allow: /recruit
-Allow: /contact
-Sitemap: https://example.com/sitemap.xml
