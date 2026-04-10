@@ -23,9 +23,9 @@ export default function HeroSection() {
 
         {/* Main Copy */}
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-black text-white leading-tight mb-6">
-          名古屋の電気工事・<br />
-          <span className="text-[#f8b500]">空調設備</span>は<br />
-          FLOW株式会社
+          心と魂を込めた<br />
+          <span className="text-[#f8b500]">電気工事</span>で、<br />
+          未来を照らす
         </h1>
 
         <p className="text-white/80 text-base md:text-lg max-w-2xl mx-auto leading-relaxed mb-10">
